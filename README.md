@@ -1,1 +1,1 @@
-# utilitar-windows
+Acest repository conține fișierul utilitar_windows.bat, un script pentru Windows care automatizează diverse acțiuni utile în administrarea sau configurarea sistemului. Scopul său este să ofere utilizatorului o modalitate rapidă și simplă de a executa comenzi fără a le scrie manual în Command Prompt.
