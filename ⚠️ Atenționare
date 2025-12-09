@@ -1,0 +1,8 @@
+Acesta este un fișier de tip batch (.bat), ceea ce înseamnă că execută comenzi direct pe sistem.
+Înainte de a-l folosi:
+
+Deschide fișierul cu un editor text pentru a vedea exact ce comenzi execută
+
+Rulează-l doar dacă ai încredere în cod
+
+Asigură-te că ai drepturi de administrator (dacă scriptul necesită)
